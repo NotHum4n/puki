@@ -17,7 +17,7 @@ def banner():
     print(f"""\033[2;31m
      
 {random_phrase()}
-    \033[2;33mVersion: V2.3 \t Author Code: EXLIPSE#1334\n\033[0m
+    \033[2;33mVersion: V2.3 \t Author Code: JaxXBonar\n\033[0m
     """)
 
 def DoS(ip, port, size, index):
